@@ -1,5 +1,5 @@
 {
-  "homepage": "https://fitness-app-20.herokuapp.com/",
+  "homepage": "https://fitness-app-test.herokuapp.com/",
   "name": "code-camp",
   "version": "0.1.0",
   "private": true,
@@ -14,8 +14,6 @@
     "serve": "^11.3.2"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
     "start": "serve -s build",
     "build": "react-scripts build",
     "test": "react-scripts test",
