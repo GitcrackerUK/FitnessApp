@@ -20,7 +20,7 @@ export default class CreateUser extends Component {
 	componentDidUpdate(prevProp,prevState){
 		if(prevState.users !== this.state.users){
 			console.log("State has changed");
-			// const reload = ()=>{window.location.reload(true)};
+			
 		}
 	}
 
@@ -48,7 +48,6 @@ export default class CreateUser extends Component {
 			this.setState({
 				username : ''
 			});
-			document.location.href = '/user';
 		})
 
 		
