@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/FitnessApp/static/js/main.d0f15996.chunk.js",
-    "main.js.map": "/FitnessApp/static/js/main.d0f15996.chunk.js.map",
+    "main.js": "/FitnessApp/static/js/main.b2b8e031.chunk.js",
+    "main.js.map": "/FitnessApp/static/js/main.b2b8e031.chunk.js.map",
     "runtime-main.js": "/FitnessApp/static/js/runtime-main.e9bca376.js",
     "runtime-main.js.map": "/FitnessApp/static/js/runtime-main.e9bca376.js.map",
     "static/css/2.ce595351.chunk.css": "/FitnessApp/static/css/2.ce595351.chunk.css",
     "static/js/2.8db78d61.chunk.js": "/FitnessApp/static/js/2.8db78d61.chunk.js",
     "static/js/2.8db78d61.chunk.js.map": "/FitnessApp/static/js/2.8db78d61.chunk.js.map",
     "index.html": "/FitnessApp/index.html",
-    "precache-manifest.56d28e548de1072efc417e01d8e42ffb.js": "/FitnessApp/precache-manifest.56d28e548de1072efc417e01d8e42ffb.js",
+    "precache-manifest.ecb361dc4beb818fa039016eee185ad4.js": "/FitnessApp/precache-manifest.ecb361dc4beb818fa039016eee185ad4.js",
     "service-worker.js": "/FitnessApp/service-worker.js",
     "static/css/2.ce595351.chunk.css.map": "/FitnessApp/static/css/2.ce595351.chunk.css.map",
     "static/js/2.8db78d61.chunk.js.LICENSE.txt": "/FitnessApp/static/js/2.8db78d61.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e9bca376.js",
     "static/css/2.ce595351.chunk.css",
     "static/js/2.8db78d61.chunk.js",
-    "static/js/main.d0f15996.chunk.js"
+    "static/js/main.b2b8e031.chunk.js"
   ]
 }
