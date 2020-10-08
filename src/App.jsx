@@ -10,7 +10,7 @@ import CreateExercise from './components/create-exercises-component'
 
 function App(){
 	return (
-		<Router basename="/FitnessApp">
+		<Router >
 			<div className="container">
 			<Navbar />
 			<br/>

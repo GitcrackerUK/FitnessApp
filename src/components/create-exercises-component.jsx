@@ -62,9 +62,11 @@ export default class CreateExercises extends Component {
 		};
 		console.log(exercises);
 
-		
-
-		axios.post('https://code-camp-291818.ew.r.appspot.com/exercises/add/', exercises).then((res) => console.log(res.data))
+		axios.post('https://code-camp-291818.ew.r.appspot.com/exercises/add/', exercises)
+		.then((res) => console.log(res.data))
+		.then(()=>{
+			window.location.href = '/'
+		})
 		.catch(err=>console.log(err));
 		
 	}

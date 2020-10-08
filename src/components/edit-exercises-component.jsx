@@ -78,10 +78,12 @@ export default class EditExercise extends Component {
 		};
 		console.log(exercises);
 
-		// document.location.href = '/';
+		
 
 		axios.post('https://code-camp-291818.ew.r.appspot.com/exercises/update/'+ this.props.match.params.id, exercises).then((res) => console.log(res.data))
 		.catch(err=>console.log(err));
+		
+		document.location.href = '/';
 	}
 	render() {
 		return (
